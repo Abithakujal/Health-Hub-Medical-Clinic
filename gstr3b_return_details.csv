@@ -1,0 +1,4 @@
+date,entry_number,transaction_type,transaction_type_formatted,transaction_id,account_id,currency_id,taxable_amount,account_type,Integrated Tax,Central Tax,State/UT Tax,Cess Amount
+2023-04-05,01,bill,Bill,1541112000000021433,,,100000.00,,0.00,0.00,0.00,0.00
+2023-04-10,02,bill,Bill,1541112000000021393,,,100000.00,,0.00,0.00,0.00,0.00
+2023-04-15,03,bill,Bill,1541112000000021413,,,100000.00,,0.00,0.00,0.00,0.00
